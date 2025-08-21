@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kip! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/kip-l-ab3a341a0/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kip! <br/><a href="https://github.com/kiplarp">Data Exploration Projects</a>, <a href="https://www.linkedin.com/in/kip-l-ab3a341a0/">Research Assistant</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
