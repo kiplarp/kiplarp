@@ -3,6 +3,7 @@
 
   - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/27ZPJVEAD505)
   - [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/2L33SFMZJ5VC)
+
 <h2>👨‍💻 Data Viz Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
