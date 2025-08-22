@@ -10,6 +10,7 @@
 
 - <b>Data Exploration, Cleaning, Analysis, Visualization </b>
   - [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
+- <b>Target Tables to Dashboard (cont. Cycle Case Scenario) </b>
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
