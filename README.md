@@ -10,8 +10,8 @@
 
 - <b>Data Exploration, Cleaning, Analysis, Visualization </b>
   - [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
-- <b>Target Tables to Dashboard (cont. Cycle Case Scenario) </b>
--<b>Window functions, CTEs, Joins </b>
+  - Target Tables to Dashboard (cont. Cycle Case Scenario)
+  - Window functions, CTEs, Joins
 
 
 - <b>Python</b>
