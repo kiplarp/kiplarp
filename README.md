@@ -6,9 +6,9 @@
 </ul>
 
 
-<h2>👨‍💻 Data Viz Projects:</h2>
-
-- [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
+<h2>👨‍💻 Data Projects:</h2>
+- <b>Data Exploration, Cleaning, Analysis, Visualization </b>
+  - [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
