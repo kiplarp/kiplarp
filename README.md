@@ -17,7 +17,8 @@
 - <b>Python</b>
   - Financial Theory Analysis and Visualizations
 
-- <b>Data Warehousing Applications (BigQuery & AWS) </b>
+- <b>Data Warehousing Applications</b>
+  - BigQuery & AWS Integrations
 
 
 <!--
