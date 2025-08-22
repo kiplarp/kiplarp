@@ -7,6 +7,7 @@
 
 
 <h2>👨‍💻 Data Projects:</h2>
+
 - <b>Data Exploration, Cleaning, Analysis, Visualization </b>
   - [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
 
