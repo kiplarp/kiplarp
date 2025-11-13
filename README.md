@@ -7,4 +7,4 @@
 ## 👨‍💻 Data Projects:
 - **Data Exploration, Cleaning, Analysis, Visualization**
   - [NYC Cycle Case Scenario](https://github.com/kiplarp/NYC-Cycle)
-  - [Google Fiber BI Analysis (In Progress)](https://github.com/kiplarp/google-fiber-bi-analysis) - Business intelligence, ETL, and analytics project focused on customer support trends and dashboarding.
+  - [Google Fiber BI Analysis](https://github.com/kiplarp/google-fiber-bi-analysis) - Business intelligence, ETL, and analytics project focused on customer support trends and dashboarding.
