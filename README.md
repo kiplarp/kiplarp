@@ -1,4 +1,4 @@
-# Hi, I'm Kip! [Data Exploration Projects](https://github.com/kiplarp), [Research Assistant](https://www.linkedin.com/in/kip-l-ab3a341a0/)
+# Hi, I'm Kip! [Data Exploration Projects](https://github.com/kiplarp), [Researcher](https://www.linkedin.com/in/kip-l-ab3a341a0/)
 
 ## 📑 Certifications
 - • [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/27ZPJVEAD505)
